@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="{{ lang }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resumo Compartilhado - Orion Quiz</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 2rem;
+            padding: 1rem;
+            background-color: #f4f4f4;
+            color: #333;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 2rem auto;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        h1 {
+            color: #333;
+            border-bottom: 2px solid #eee;
+            padding-bottom: 0.5rem;
+        }
+        pre {
+            white-space: pre-wrap; /* Allow text wrapping */
+            word-wrap: break-word; /* Break long words */
+            background-color: #eee;
+            padding: 1rem;
+            border-radius: 5px;
+            border: 1px solid #ddd;
+        }
+        footer {
+            margin-top: 2rem;
+            font-size: 0.9em;
+            color: #777;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>{{ title }}</h1>
+    <p><strong>{{ user_label }}:</strong> {{ nick }}</p>
+    <h2>{{ summary_title }}</h2>
+    <pre>{{ summary }}</pre>
+    <footer>
+        {{ generated_by }}
+    </footer>
+</body>
+</html>
+

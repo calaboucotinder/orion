@@ -1,0 +1,354 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "text": "Você se sente mais excitado(a) dominando ou sendo dominado(a)? (Dominance/Submission)",
+            "type": "scale",
+            "options": ["Prefiro dominar", "Ambos igualmente", "Prefiro ser dominado(a)"],
+            "page": 1
+        },
+        {
+            "id": 2,
+            "text": "O que te atrai mais em jogos de poder? (Power Play)",
+            "type": "multiple",
+            "options": ["Controle físico", "Controle mental/psicológico", "Humilhação consensual (Humiliation)", "Disciplina (Discipline)", "Nenhum"],
+            "page": 1
+        },
+        {
+            "id": 3,
+            "text": "Como você se sente em relação a bondage (Bondage)?",
+            "type": "scale",
+            "options": ["Adoro amarrar", "Gosto dos dois", "Adoro ser amarrado(a)"],
+            "page": 1
+        },
+        {
+            "id": 4,
+            "text": "Qual seu nível de interesse em sensações de dor consensual? (Sadomasochism)",
+            "type": "scale",
+            "options": ["Nenhum interesse", "Leve/Moderado", "Intenso"],
+            "page": 1
+        },
+        {
+            "id": 5,
+            "text": "Você tem interesse em roleplay (Roleplay)?",
+            "type": "multiple",
+            "options": ["Professor/Aluno (Teacher/Student)", "Médico/Paciente (Doctor/Patient)", "Chefe/Funcionário (Boss/Employee)", "Outros", "Nenhum"],
+            "page": 1
+        },
+        {
+            "id": 6,
+            "text": "O que te excita mais em uma dinâmica D/s (Dominance/Submission)?",
+            "type": "multiple",
+            "options": ["Ordens e obediência (Obedience)", "Protocolos (Protocols)", "Punições (Punishments)", "Recompensas (Rewards)", "Nenhum"],
+            "page": 2
+        },
+        {
+            "id": 7,
+            "text": "Como você prefere expressar submissão? (Submission)",
+            "type": "multiple",
+            "options": ["Serviço doméstico (Service)", "Serviço sexual (Sexual Service)", "Serviço pessoal (Personal Service)", "Protocolos (Protocols)", "Nenhum"],
+            "page": 2
+        },
+        {
+            "id": 8,
+            "text": "Qual seu interesse em práticas sensoriais? (Sensory Play)",
+            "type": "multiple",
+            "options": ["Vendas (Blindfold)", "Cera (Wax Play)", "Gelo (Ice Play)", "Penas (Feather Play)", "Nenhum"],
+            "page": 2
+        },
+        {
+            "id": 9,
+            "text": "Você tem interesse em práticas de impacto? (Impact Play)",
+            "type": "multiple",
+            "options": ["Spanking", "Chibatadas (Flogging)", "Palmatória (Paddling)", "Canes (Cane)", "Nenhum"],
+            "page": 2
+        },
+        {
+            "id": 10,
+            "text": "Como você se sente sobre restrição de orgasmo? (Orgasm Control)",
+            "type": "scale",
+            "options": ["Prefiro controlar", "Indiferente", "Prefiro ser controlado(a)"],
+            "page": 2
+        },
+        {
+            "id": 11,
+            "text": "Qual seu interesse em humilhação consensual? (Humiliation)",
+            "type": "scale",
+            "options": ["Nenhum", "Moderado", "Intenso"],
+            "page": 3
+        },
+        {
+            "id": 12,
+            "text": "Você tem interesse em pet play? (Pet Play)",
+            "type": "multiple",
+            "options": ["Gatinho(a) (Kitten)", "Cachorrinho(a) (Puppy)", "Pônei (Pony)", "Outro", "Nenhum"],
+            "page": 3
+        },
+        {
+            "id": 13,
+            "text": "Como você se sente sobre marcas temporárias? (Marking)",
+            "type": "scale",
+            "options": ["Não gosto", "Aceito algumas", "Adoro"],
+            "page": 3
+        },
+        {
+            "id": 14,
+            "text": "Qual seu interesse em práticas com cordas? (Rope Play)",
+            "type": "multiple",
+            "options": ["Shibari", "Suspensão (Suspension)", "Contenção (Restraint)", "Decorativo (Decorative)", "Nenhum"],
+            "page": 3
+        },
+        {
+            "id": 15,
+            "text": "Você tem interesse em práticas de adoração? (Worship)",
+            "type": "multiple",
+            "options": ["Pés (Foot Worship)", "Botas (Boot Worship)", "Corpo todo (Body Worship)", "Outro", "Nenhum"],
+            "page": 3
+        },
+        {
+            "id": 16,
+            "text": "Como você se sente sobre jogos mentais? (Mind Games)",
+            "type": "scale",
+            "options": ["Não gosto", "Moderado", "Adoro"],
+            "page": 4
+        },
+        {
+            "id": 17,
+            "text": "Qual seu interesse em práticas de degradação? (Degradation)",
+            "type": "scale",
+            "options": ["Nenhum", "Moderado", "Intenso"],
+            "page": 4
+        },
+        {
+            "id": 18,
+            "text": "Você tem interesse em práticas de idade? (Age Play)",
+            "type": "multiple",
+            "options": ["Daddy/Mommy", "Little (Pirralho)", "Cuidador(a) (Caregiver)", "Outro", "Nenhum"],
+            "page": 4
+        },
+        {
+            "id": 19,
+            "text": "Como você se sente sobre práticas em público? (Public Play)",
+            "type": "scale",
+            "options": ["Não gosto", "Talvez discretamente", "Adoro"],
+            "page": 4
+        },
+        {
+            "id": 20,
+            "text": "Qual seu interesse em práticas de látex/couro? (Latex/Leather)",
+            "type": "multiple",
+            "options": ["Roupas (Clothing)", "Máscaras (Masks)", "Restrições (Restraints)", "Outro", "Nenhum"],
+            "page": 4
+        },
+        {
+            "id": 21,
+            "text": "Você tem interesse em práticas de eletro? (Electro Play)",
+            "type": "scale",
+            "options": ["Nenhum", "Curioso(a)", "Muito"],
+            "page": 5
+        },
+        {
+            "id": 22,
+            "text": "Como você se sente sobre práticas de fôlego? (Breath Play)",
+            "type": "scale",
+            "options": ["Não gosto", "Curioso(a)", "Adoro"],
+            "page": 5
+        },
+        {
+            "id": 23,
+            "text": "Qual seu interesse em práticas médicas? (Medical Play)",
+            "type": "multiple",
+            "options": ["Exames (Examinations)", "Agulhas (Needles)", "Temperaturas (Temperature Play)", "Outro", "Nenhum"],
+            "page": 5
+        },
+        {
+            "id": 24,
+            "text": "Você tem interesse em práticas de feminização? (Feminization)",
+            "type": "scale",
+            "options": ["Nenhum", "Curioso(a)", "Muito"],
+            "page": 5
+        },
+        {
+            "id": 25,
+            "text": "Como você se sente sobre práticas de contenção? (Restraint)",
+            "type": "multiple",
+            "options": ["Algemas (Handcuffs)", "Correntes (Chains)", "Cintos (Belts)", "Outro", "Nenhum"],
+            "page": 5
+        },
+        {
+            "id": 26,
+            "text": "Qual seu interesse em práticas de adoração corporal? (Body Worship)",
+            "type": "multiple",
+            "options": ["Massagens (Massage)", "Banhos (Baths)", "Adoração (Worship)", "Outro", "Nenhum"],
+            "page": 6
+        },
+        {
+            "id": 27,
+            "text": "Você tem interesse em práticas de privação sensorial? (Sensory Deprivation)",
+            "type": "scale",
+            "options": ["Nenhum", "Moderado", "Intenso"],
+            "page": 6
+        },
+        {
+            "id": 28,
+            "text": "Como você se sente sobre práticas de cross-dressing? (Cross-dressing)",
+            "type": "scale",
+            "options": ["Não gosto", "Curioso(a)", "Adoro"],
+            "page": 6
+        },
+        {
+            "id": 29,
+            "text": "Qual seu interesse em práticas de voyeurismo/exibicionismo? (Voyeurism/Exhibitionism)",
+            "type": "scale",
+            "options": ["Nenhum", "Moderado", "Intenso"],
+            "page": 6
+        },
+        {
+            "id": 30,
+            "text": "Você tem interesse em práticas de objectificação? (Objectification)",
+            "type": "scale",
+            "options": ["Nenhum", "Moderado", "Intenso"],
+            "page": 6
+        },
+        {
+            "id": 31,
+            "text": "Você gosta de ser observado(a) ou observar? (Voyeurism/Exhibitionism)",
+            "type": "scale",
+            "options": ["Observar", "Ambos", "Ser observado(a)", "Nenhum"],
+            "page": 7
+        },
+        {
+            "id": 32,
+            "text": "Você sente prazer em obedecer comandos simples? (Obedience Training)",
+            "type": "boolean",
+            "options": ["Sim", "Não"],
+            "page": 7
+        },
+        {
+            "id": 33,
+            "text": "Você já experimentou spanking (Spanking)?",
+            "type": "boolean",
+            "options": ["Sim", "Não"],
+            "page": 7
+        },
+        {
+            "id": 34,
+            "text": "Você se identifica com o papel de switch (Switch)?",
+            "type": "boolean",
+            "options": ["Sim", "Não"],
+            "page": 7
+        },
+        {
+            "id": 35,
+            "text": "Você sente curiosidade por práticas de wax play (Cera)?",
+            "type": "boolean",
+            "options": ["Sim", "Não"],
+            "page": 7
+        },
+        {
+            "id": 36,
+            "text": "Você já participou de cenas com múltiplos parceiros? (Group Play)",
+            "type": "boolean",
+            "options": ["Sim", "Não"],
+            "page": 7
+        },
+        {
+            "id": 37,
+            "text": "Você sente prazer em ser elogiado(a) ou humilhado(a)? (Praise/Humiliation)",
+            "type": "multiple",
+            "options": ["Elogiado(a) (Praise)", "Humilhado(a) (Humiliation)", "Ambos", "Nenhum"],
+            "page": 7
+        },
+        {
+            "id": 38,
+            "text": "Você já usou ou gostaria de usar mordaça? (Gag)",
+            "type": "boolean",
+            "options": ["Sim", "Não"],
+            "page": 7
+        },
+        {
+            "id": 39,
+            "text": "Você sente interesse em práticas de edge play (Edge Play)?",
+            "type": "scale",
+            "options": ["Nenhum", "Moderado", "Muito"],
+            "page": 8
+        },
+        {
+            "id": 40,
+            "text": "Você já participou de aftercare (Aftercare)?",
+            "type": "boolean",
+            "options": ["Sim", "Não"],
+            "page": 8
+        },
+        {
+            "id": 41,
+            "text": "Você sente prazer em práticas de CBT (Cock and Ball Torture)?",
+            "type": "scale",
+            "options": ["Nenhum", "Moderado", "Intenso"],
+            "page": 8
+        },
+        {
+            "id": 42,
+            "text": "Você já experimentou práticas de wax play (Wax Play)?",
+            "type": "boolean",
+            "options": ["Sim", "Não"],
+            "page": 8
+        },
+        {
+            "id": 43,
+            "text": "Você sente interesse em práticas de breath control (Breath Play)?",
+            "type": "scale",
+            "options": ["Nenhum", "Moderado", "Intenso"],
+            "page": 8
+        },
+        {
+            "id": 44,
+            "text": "Você já participou de cenas públicas (Public Play)?",
+            "type": "boolean",
+            "options": ["Sim", "Não"],
+            "page": 8
+        },
+        {
+            "id": 45,
+            "text": "Você sente prazer em práticas de pegging (Pegging)?",
+            "type": "scale",
+            "options": ["Nenhum", "Moderado", "Intenso"],
+            "page": 8
+        },
+        {
+            "id": 46,
+            "text": "Você já experimentou práticas de sensory deprivation (Privação Sensorial)?",
+            "type": "boolean",
+            "options": ["Sim", "Não"],
+            "page": 8
+        },
+        {
+            "id": 47,
+            "text": "Você sente interesse em práticas de medical play (Medical Play)?",
+            "type": "scale",
+            "options": ["Nenhum", "Moderado", "Intenso"],
+            "page": 8
+        },
+        {
+            "id": 48,
+            "text": "Você já participou de cenas de disciplina rígida (High Protocol)?",
+            "type": "boolean",
+            "options": ["Sim", "Não"],
+            "page": 8
+        },
+        {
+            "id": 49,
+            "text": "Você sente prazer em práticas de tickling (Cossiguinhas)?",
+            "type": "scale",
+            "options": ["Nenhum", "Moderado", "Intenso"],
+            "page": 8
+        },
+        {
+            "id": 50,
+            "text": "Você já experimentou práticas de fire play (Fire Play)?",
+            "type": "boolean",
+            "options": ["Sim", "Não"],
+            "page": 8
+        }
+    ]
+} 

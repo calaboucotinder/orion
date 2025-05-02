@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Orion Quiz</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Orion Quiz Interativo</h1>
+        <div id="language-selector">
+            <!-- Placeholder para seletor de idioma -->
+            <button data-lang="pt">Português</button>
+            <button data-lang="en">English</button>
+        </div>
+    </header>
+
+    <main>
+        <div id="main-nav-options">
+            <button id="start-quiz-option">Iniciar Quiz</button>
+            <button id="compare-profiles-option">Comparar Perfis</button>
+            <button id="chat-orion-option">Chat com Orion</button>
+        </div>
+        <section id="user-info-section">
+            <h2>Identificação</h2>
+            <form id="user-info-form">
+                <label for="nick">@Nick:</label>
+                <input type="text" id="nick" name="nick" required><br><br>
+                <label for="telefone">Telefone:</label>
+                <input type="tel" id="telefone" name="telefone" required><br><br>
+                <button type="submit">Iniciar Teste</button>
+            </form>
+        </section>
+
+        <section id="compare-section" style="display: none;">
+            <h2>Comparar Perfis</h2>
+            <p>Insira dois códigos de acesso para analisar a compatibilidade entre os perfis.</p>
+            <form id="compare-form">
+                <div>
+                    <label for="code1">Código 1:</label>
+                    <input type="text" id="code1" name="code1" required>
+                </div>
+                <div>
+                    <label for="code2">Código 2:</label>
+                    <input type="text" id="code2" name="code2" required>
+                </div>
+                <button type="submit">Analisar Compatibilidade</button>
+            </form>
+            <div id="comparison-result"></div>
+        </section>
+
+        <section id="quiz-section" style="display: none;">
+            <h2>Quiz</h2>
+            <div id="question-container">
+                <!-- Perguntas serão carregadas aqui -->
+            </div>
+            <button id="next-question">Próxima</button>
+            <button id="submit-quiz" style="display: none;">Finalizar</button>
+        </section>
+
+        <section id="results-section" style="display: none;">
+            <h2>Seu Resumo Personalizado</h2>
+            <div id="summary-container">
+                <!-- Resumo da IA será exibido aqui -->
+            </div>
+            <div id="compatibility-bar" style="margin: 20px 0; display: none;">
+                <span id="compatibility-label"></span>
+                <div style="background:#eee; border-radius:8px; height:20px; width:100%; margin-top:5px;">
+                    <div id="compatibility-fill" style="background:#8e44ad; height:100%; border-radius:8px; width:0%; transition:width 0.7s;"></div>
+                </div>
+            </div>
+            <p>Seu código de acesso: <strong id="access-code"></strong></p>
+            <button id="share-summary">Compartilhar</button>
+            <button id="download-summary">Baixar (PDF)</button>
+            <button id="chat-orion">Converse com Orion</button>
+        </section>
+
+        <section id="chat-section" style="display: none;">
+            <h2>Converse com Orion</h2>
+            <div id="chat-window">
+                <!-- Interface do chat será implementada aqui -->
+            </div>
+            <div id="typing-indicator" style="display: none;">
+                <!-- Indicador de digitação -->
+            </div>
+            <div id="chat-input-area">
+                <textarea id="chat-input" placeholder="Digite sua mensagem..."></textarea>
+                <button id="send-chat-message">Enviar</button>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>Aviso de Privacidade: Seus dados serão usados apenas para gerar seu perfil e permitir acesso futuro. <a href="#">Leia mais</a>.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

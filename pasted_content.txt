@@ -1,0 +1,76 @@
+Quero criar um site moderno e responsivo com uma experiência parecida com https://bdsmtest.org/select-lang, mas com mais interatividade, integração com IA (modelo Gemini), suporte multilíngue (Português/Inglês) e banco de dados para armazenar os resultados de forma personalizada.
+
+Objetivo:
+Criar uma plataforma de teste interativo, com perguntas em sequência, que ao final gera um resumo inteligente e personalizado, feito por uma IA, e permite ao usuário conversar com a IA para expandir o autoconhecimento. Sem login obrigatório, mas com identificação via @nick + número de telefone.
+
+Funcionalidades desejadas:
+1. Interface
+Design moderno, clean e responsivo (altamente compatível com celular).
+
+Página inicial com botão "Começar o Teste".
+
+Inspiração visual nos sites:
+
+https://bdsmtest.org/select-lang
+
+https://bdsm-test.co/pt
+
+https://uquiz.com/Quiz/Question/1TZWYK/2
+
+2. Sistema de Perguntas
+Fluxo de perguntas dividido em páginas ou blocos (estilo "quiz").
+
+Perguntas objetivas e subjetivas.
+
+Campos obrigatórios iniciais: @nick + número de telefone (usado como ID único).
+
+Todas as respostas são salvas em um banco de dados vinculado ao nick + telefone.
+
+3. Geração de Resumo com IA (Gemini)
+Ao finalizar o teste, o sistema envia as respostas do usuário para a IA (modelo Gemini).
+
+A IA retorna um resumo completo, explicando o perfil da pessoa com base nas respostas.
+
+Esse resumo aparece automaticamente na tela.
+
+4. Código de Acesso
+Junto com o resumo, o usuário recebe um código único.
+
+Esse código permite reacessar seu resultado futuramente.
+
+O sistema deve conseguir buscar o resultado com: @nick + número de telefone ou o código.
+
+5. Chat com IA: “Converse com Orion”
+Botão visível ao final do teste: "Converse com Orion".
+
+Abre um chat em tempo real com a IA Gemini, permitindo:
+
+Expansão do resumo.
+
+Dúvidas sobre o resultado.
+
+Conversa livre com base no perfil da pessoa.
+
+6. Extras importantes:
+Multilíngue: Pelo menos Português e Inglês (pode detectar idioma do navegador).
+
+Sem login obrigatório (nem senha).
+
+Compatibilidade total com celular.
+
+Opção de salvar ou compartilhar o resultado (PDF ou link).
+
+Banco de dados estruturado com respostas, nick, telefone e código de acesso.
+
+Fácil de escalar e integrar futuramente com outros testes ou perfis.
+
+Resumo da Experiência do Usuário:
+
+Usuário entra → Preenche nick + telefone → Responde perguntas
+
+IA gera um resumo personalizado → Mostra código de acesso
+
+Usuário pode conversar com a IA ("Orion") → Chat integrado
+
+Pode voltar futuramente com o código ou @nick + número
+

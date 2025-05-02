@@ -1,0 +1,38 @@
+<section id="initial-options" class="center-content">
+    <div class="option-buttons">
+        <button id="start-quiz-option" class="active">Iniciar Quiz</button>
+        <button id="compare-profiles-option">Comparar Perfis</button>
+    </div>
+</section>
+
+<section id="user-info-section">
+    <h2>Identificação</h2>
+    <form id="user-info-form">
+        <div>
+            <label for="nick">@Nick:</label>
+            <input type="text" id="nick" name="nick" required>
+        </div>
+        <div>
+            <label for="telefone">Telefone:</label>
+            <input type="tel" id="telefone" name="telefone" required>
+        </div>
+        <button type="submit">Iniciar Teste</button>
+    </form>
+</section>
+
+<section id="compare-section" style="display: none;">
+    <h2>Comparar Perfis</h2>
+    <p>Insira dois códigos de acesso para analisar a compatibilidade entre os perfis.</p>
+    <form id="compare-form">
+        <div>
+            <label for="code1">Código 1:</label>
+            <input type="text" id="code1" name="code1" required>
+        </div>
+        <div>
+            <label for="code2">Código 2:</label>
+            <input type="text" id="code2" name="code2" required>
+        </div>
+        <button type="submit">Analisar Compatibilidade</button>
+    </form>
+    <div id="comparison-result"></div>
+</section> 
